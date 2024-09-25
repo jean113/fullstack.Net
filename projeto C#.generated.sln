@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dima", "Dima", "{478E92C1-7D95-4979-B535-5E627CE1D878}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dima.Core", "Dima\Dima.Core\Dima.Core.csproj", "{CC27825B-847C-4DB8-B01F-4F8A75FECA23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC27825B-847C-4DB8-B01F-4F8A75FECA23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC27825B-847C-4DB8-B01F-4F8A75FECA23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC27825B-847C-4DB8-B01F-4F8A75FECA23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC27825B-847C-4DB8-B01F-4F8A75FECA23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CC27825B-847C-4DB8-B01F-4F8A75FECA23} = {478E92C1-7D95-4979-B535-5E627CE1D878}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {079E38D1-FF87-47E9-BFCD-BFE777E3DA3B}
+	EndGlobalSection
+EndGlobal
